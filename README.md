@@ -30,7 +30,7 @@ python image.py
 
 ## Example Output
 
-![APOD Example](image\uni_imge.jpg)
+![APOD Example](image\uni_imge.png)
 
 ## License
 
