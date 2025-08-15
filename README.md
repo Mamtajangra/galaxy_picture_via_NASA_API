@@ -1,6 +1,10 @@
 # universe_report
 
 Fetches NASA's Astronomy Picture of the Day (APOD) and prints the image URL.
+## Example Output
+
+![APOD Example](https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg)
+
 
 ## Features
 
@@ -28,9 +32,7 @@ Run the script:
 python image.py
 ```
 
-## Example Output
 
-![APOD Example](https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg)
 
 ## License
 
